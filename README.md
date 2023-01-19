@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<h1>My name is Matt Wood.<h1>
+<h1>My name is Matt Wood.</h1>
 
-<h2>I am a Full Stack Developer<h2>
+<h2>I am a Full Stack Developer</h2>
 
 - 📫 You can reach me at: w.matthew.wood@gmail.com
 - 🌱 I'm interested in learning about DevOps and Systems Architecture.
