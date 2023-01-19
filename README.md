@@ -1,14 +1,14 @@
-<h2> Hi there 👋 </h2>
-<h2> My name is Matt Wood </h2>
-<h2> I am a Full Stack Developer </h2>
+<h3 align="center"> Hi there 👋 </h3>
+<h2 align="center"> My name is Matt Wood </h2>
+<h3 align="center"> I am a Full Stack Developer </h3>
 
 - 📫 You can reach me at: w.matthew.wood@gmail.com
 - 🌱 I'm interested in learning about DevOps and Systems Architecture.
-- ❤️‍🔥 I am passionate about intuitive user interfaces and clean, readable code!
-- 📚 I am currently reading: "The Pragmatic Programmmer, 20th Anniversary Edition" by Andrew Hunt and David Thomas
+- ❤️‍🔥 I am passionate about intuitive UI and clean code!
+- 👯 I’m looking to collaborate on open source projects.
 
 ---
-<h3 align="center"> I work with... </h3>
+<h3 align="center"> I work with</h3>
 <div align="center">
   <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> 
   <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -21,12 +21,28 @@
   <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
   <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
 </div>
+
 ---
-<h3 align="center"> I’m currently learning.. </h3> 
+<h3 align="center"> I’m currently learning </h3> 
 <div align="center">
   <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
 </div>
+
+---
+<h3 align="center"> Find me on LinkedIn </h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/wmattwood/">
+    <img width="100px" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+---
+<h3 align="center"> My bookshelf </h3>
+- 📖 "The Pragmatic Programmmer, 20th Anniversary Edition" by Andrew Hunt and David Thomas
+- 📚 "The Web of Life" by Fritjof Capra
+- 📚 "Javascript: The Good Parts: by Douglas Crockford
+- 📚 "The DevOps Handbook" by Gene Kim, Jez Humble, Patrick DeBois and John Willis
 <!--
 Here are some ideas to get you started:
 
