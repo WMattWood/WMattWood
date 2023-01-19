@@ -4,6 +4,12 @@
 <h4 align="center"> 📫 You can reach me at: w.matthew.wood@gmail.com </h4>
 
 ---
+
+- 🌱 I'm interested in learning about DevOps and Systems Architecture.
+- ❤️‍🔥 I am passionate about intuitive UI and clean code!
+- 👯 I’m looking to collaborate on open source projects.
+  
+---
 <h3 align="center"> I work with</h3>
 <div align="center">
   <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> 
@@ -33,12 +39,6 @@
   </a>
 </div>
 
----
-
-- 🌱 I'm interested in learning about DevOps and Systems Architecture.
-- ❤️‍🔥 I am passionate about intuitive UI and clean code!
-- 👯 I’m looking to collaborate on open source projects.
-  
 ---
 <h3 align="center"> My bookshelf </h3>
 
