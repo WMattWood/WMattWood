@@ -1,12 +1,16 @@
 <h3 align="center"> Hi there 👋 </h3>
 <h2 align="center"> My name is Matt Wood </h2>
 <h2 align="center"> I am a Full Stack Developer </h2>
+<h4 align="center"> 📫 You can reach me at: w.matthew.wood@gmail.com </h4>
 
-- 📫 You can reach me at: w.matthew.wood@gmail.com
+<div align="center">
+  
 - 🌱 I'm interested in learning about DevOps and Systems Architecture.
 - ❤️‍🔥 I am passionate about intuitive UI and clean code!
 - 👯 I’m looking to collaborate on open source projects.
-
+  
+</div>
+  
 ---
 <h3 align="center"> I work with</h3>
 <div align="center">
@@ -44,7 +48,7 @@
 - 📚 "The Web of Life" by Fritjof Capra
 - 📚 "Javascript: The Good Parts: by Douglas Crockford
 - 📚 "The DevOps Handbook" by Gene Kim, Jez Humble, Patrick DeBois and John Willis
-- 
+
 <!--
 Here are some ideas to get you started:
 
