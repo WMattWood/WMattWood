@@ -1,13 +1,11 @@
-### Hi there 👋
-
-<h1>My name is Matt Wood.</h1>
-
-<h2>I am a Full Stack Developer</h2>
+<h1> My name is Matt Wood. </h1>
+<h2> I am a Full Stack Developer </h2>
 
 - 📫 You can reach me at: w.matthew.wood@gmail.com
 - 🌱 I'm interested in learning about DevOps and Systems Architecture.
 - ❤️‍🔥 I am passionate about intuitive user interfaces and clean, readable code!
 - 📚 I am currently reading: "The Pragmatic Programmmer, 20th Anniversary Edition" by Andrew Hunt and David Thomas
+
 ---
 <h3 align="center"> I work with... </h3>
 <div align="center">
