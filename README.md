@@ -1,6 +1,6 @@
 <h3 align="center"> Hi there 👋 </h3>
 <h2 align="center"> My name is Matt Wood </h2>
-<h3 align="center"> I am a Full Stack Developer </h3>
+<h2 align="center"> I am a Full Stack Developer </h2>
 
 - 📫 You can reach me at: w.matthew.wood@gmail.com
 - 🌱 I'm interested in learning about DevOps and Systems Architecture.
