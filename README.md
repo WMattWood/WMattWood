@@ -39,10 +39,12 @@
 
 ---
 <h3 align="center"> My bookshelf </h3>
+
 - 📖 "The Pragmatic Programmmer, 20th Anniversary Edition" by Andrew Hunt and David Thomas
 - 📚 "The Web of Life" by Fritjof Capra
 - 📚 "Javascript: The Good Parts: by Douglas Crockford
 - 📚 "The DevOps Handbook" by Gene Kim, Jez Humble, Patrick DeBois and John Willis
+- 
 <!--
 Here are some ideas to get you started:
 
