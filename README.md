@@ -2,7 +2,9 @@
 <h2 align="center"> My name is Matt Wood </h2>
 <h2 align="center"> I am a Full Stack Developer </h2>
 <h4 align="center"> 📫 You can reach me at: w.matthew.wood@gmail.com </h4>
-  
+
+---
+
 - 🌱 I'm interested in learning about DevOps and Systems Architecture.
 - ❤️‍🔥 I am passionate about intuitive UI and clean code!
 - 👯 I’m looking to collaborate on open source projects.
