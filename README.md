@@ -22,13 +22,6 @@ Find me on LinkedIn: <a href="https://www.linkedin.com/in/wmattwood/">linkedin.c
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
 </div>
 
-<h3 align="left"> My bookshelf </h3>
-
-&nbsp; 📖 &nbsp; "The Pragmatic Programmmer, 20th Anniversary Edition" by Andrew Hunt and David Thomas \
-&nbsp; 📚 &nbsp; "The Web of Life" by Fritjof Capra \
-&nbsp; 📚 &nbsp; "Javascript: The Good Parts" by Douglas Crockford \
-&nbsp; 📚 &nbsp; "The DevOps Handbook" by Gene Kim, Jez Humble, Patrick DeBois and John Willis
-
 <!--
 Here are some ideas to get you started:
 
