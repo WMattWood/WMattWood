@@ -1,51 +1,33 @@
-<!-- <h3 align="center"> Hi there 👋 </h3> -->
-<h2 align="center"> My name is Matthew Wood </h2>
-<h2 align="center"> I am a Full Stack Developer </h2>
-<h4 align="center"> 📫 You can reach me at: w.matthew.wood@gmail.com </h4>
+### Hi there, my name is Matt 👋 
+<div align="left"> I'm a Full Stack Developer from Montréal and I love solving problems.</div>
+<br/>
+
+&nbsp; 🌐 &nbsp; I am interested in learning about DevOps and Systems Architecture \
+&nbsp; 🔥 &nbsp; I'm passionate about clean human readable code \
+&nbsp; ❤️ &nbsp; I love solving problems and learning new things \
+&nbsp; 🔧 &nbsp; I want to build intuitive user interfaces \
+&nbsp; 🌱 &nbsp; I am inspired by natural systems 
+<!-- &nbsp; 👯 &nbsp; I’m looking to collaborate on open source projects -->
+
+Find me on LinkedIn: <a href="https://www.linkedin.com/in/wmattwood/">linkedin.com/in/wmattwood/</a>
 
 ---
 
-- 🌱 I'm interested in learning about DevOps and Systems Architecture.
-- ❤️‍🔥 I am passionate about intuitive UI and clean code!
-- 👯 I’m looking to collaborate on open source projects.
-  
----
-<h3 align="center"> I work with</h3>
-<div align="center">
-  <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> 
-  <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />  
-  <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-  <br/>
-  <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> 
-  <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
-  <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-  <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+<div align="left">
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />  
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> 
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
 </div>
 
----
-<h3 align="center"> I’m currently learning </h3> 
-<div align="center">
-  <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-</div>
+<h3 align="left"> My bookshelf </h3>
 
----
-<h3 align="center"> Find me on LinkedIn </h3>
-<div align="center">
-  <a href="https://www.linkedin.com/in/wmattwood/">
-    <img width="100px" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
-</div>
-
----
-<h3 align="center"> My bookshelf </h3>
-
-- 📖 "The Pragmatic Programmmer, 20th Anniversary Edition" by Andrew Hunt and David Thomas
-- 📚 "The Web of Life" by Fritjof Capra
-- 📚 "Javascript: The Good Parts" by Douglas Crockford
-- 📚 "The DevOps Handbook" by Gene Kim, Jez Humble, Patrick DeBois and John Willis
+&nbsp; 📖 &nbsp; "The Pragmatic Programmmer, 20th Anniversary Edition" by Andrew Hunt and David Thomas \
+&nbsp; 📚 &nbsp; "The Web of Life" by Fritjof Capra \
+&nbsp; 📚 &nbsp; "Javascript: The Good Parts" by Douglas Crockford \
+&nbsp; 📚 &nbsp; "The DevOps Handbook" by Gene Kim, Jez Humble, Patrick DeBois and John Willis
 
 <!--
 Here are some ideas to get you started:
