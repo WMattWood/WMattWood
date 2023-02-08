@@ -22,6 +22,11 @@ Find me on LinkedIn: <a href="https://www.linkedin.com/in/wmattwood/">linkedin.c
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
 </div>
 
+---
+
+### I'm currently reading...
+&nbsp; 📖 &nbsp; "The Pragmatic Programmmer, 20th Anniversary Edition" by Andrew Hunt and David Thomas
+
 <!--
 Here are some ideas to get you started:
 
