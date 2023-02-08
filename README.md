@@ -1,6 +1,6 @@
 <!-- <h3 align="center"> Hi there 👋 </h3> -->
-<h2 align="center"> My name is Matt Wood </h2>
-<h2 align="center"> I am an entry level full stack developer </h2>
+<h2 align="center"> My name is Matthew Wood </h2>
+<h2 align="center"> I am a Full Stack Developer </h2>
 <h4 align="center"> 📫 You can reach me at: w.matthew.wood@gmail.com </h4>
 
 ---
