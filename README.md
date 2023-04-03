@@ -16,7 +16,8 @@ Find me on LinkedIn: <a href="https://www.linkedin.com/in/wmattwood/">linkedin.c
 
 ---
 
-<p align="center">
+### Languages and tools I work with:
+<p align="left">
   
   <a href="https://ruby-doc.org/core-3.0.1/" target="_blank" rel="noreferrer">
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby logo"/> </a>
@@ -29,9 +30,6 @@ Find me on LinkedIn: <a href="https://www.linkedin.com/in/wmattwood/">linkedin.c
   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img width="50px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git logo" /> </a>
-</p>
-
-<p align="center">
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML5 logo"/> </a>
@@ -57,16 +55,3 @@ Find me on LinkedIn: <a href="https://www.linkedin.com/in/wmattwood/">linkedin.c
 
 ### I'm currently reading...
 &nbsp; 📖 &nbsp; "The Pragmatic Programmmer, 20th Anniversary Edition" by Andrew Hunt and David Thomas
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
