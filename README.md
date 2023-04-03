@@ -13,7 +13,7 @@
 <br>
 <br>
 
-Find me on LinkedIn: <a href="https://www.linkedin.com/in/wmattwood/" target="_blank">linkedin.com/in/wmattwood/</a> 
+Find me on LinkedIn: <a href="https://www.linkedin.com/in/wmattwood/" target="_blank">linkedin.com/in/wmattwood/</a> \
 Check out my scheduling app: <a href="https://yourschedule.onrender.com/" target="_blank">yourSchedule.onrender.com</a> 
 Having fun with SVG animations: <a href="https://wmattwood.github.io/vote-time/" target="_blank">wmattwood.github.io/vote-time/</a> 
 
