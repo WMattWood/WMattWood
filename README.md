@@ -1,18 +1,21 @@
 <h1 align="center">Hi 👋, I am Matthew Wood </h1>
 <h3 align="center">A passionate Full Stack Developer from Montréal, QC</h3> 
-
-<br>
-I'm currently working on <a href="https://github.com/lespacemaker/hackathon/tree/main/zoho-crm-api-connector">an RFID/FOB system for a local maker space.</a> 
-<br>
+<img align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47jng7y46q5cf5s82mclj38rr5syvkk9kiy179d2tx&rid=giphy.gif&ct=g">
 <br>
 
-&nbsp; 🌐 &nbsp; I am interested in learning about DevOps and Systems Architecture \
-&nbsp; 🔥 &nbsp; I'm passionate about clean human readable code \
-&nbsp; ❤️ &nbsp; I love solving problems and learning new things \
-&nbsp; 🔧 &nbsp; I want to build intuitive user interfaces \
-&nbsp; 🌱 &nbsp; I am inspired by natural systems 
+- 💻 I'm currently working as a volunteer at a local maker space to help build <a href="https://github.com/lespacemaker/hackathon/tree/main/zoho-crm-api-connector">a RFID/FOB system</a> on top of Raspberry Pi devices with a Python backend.
 
-Find me on LinkedIn: <a href="https://www.linkedin.com/in/wmattwood/">linkedin.com/in/wmattwood/</a>
+- 🎹 I have a background in Electroacoustics and spent 10 years working in highly technical aspects of the audio field (sampling, Max/MSP, Reaktor, MIDI Controllers, interface design, audio networking.)
+
+- 🔥 I'm passionate about clean human readable code and intuitive user interfaces.
+
+-  📖 I'm learning about algorithms and data structures as well as Java, C++, and Typescript.
+<br>
+<br>
+
+Find me on LinkedIn: <a href="https://www.linkedin.com/in/wmattwood/" target="_blank">linkedin.com/in/wmattwood/</a> 
+Check out my scheduling app: <a href="https://yourschedule.onrender.com/" target="_blank">yourSchedule.onrender.com</a> 
+Having fun with SVG animations: <a href="https://wmattwood.github.io/vote-time/" target="_blank">wmattwood.github.io/vote-time/</a> 
 
 ---
 
@@ -53,5 +56,8 @@ Find me on LinkedIn: <a href="https://www.linkedin.com/in/wmattwood/">linkedin.c
 
 ---
 
+<!---
+
 ### I'm currently reading...
 &nbsp; 📖 &nbsp; "The Pragmatic Programmmer, 20th Anniversary Edition" by Andrew Hunt and David Thomas
+--->
