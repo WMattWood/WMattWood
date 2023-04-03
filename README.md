@@ -46,8 +46,8 @@ Find me on LinkedIn: <a href="https://www.linkedin.com/in/wmattwood/">linkedin.c
   <a href="https://react.dev/reference/react" target="_blank" rel="noreferrer">
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React.js logo"/> </a>
   
-  <a href="https://nodejs.org/dist/latest-v18.x/docs/api/http.html" target="_blank" rel="noreferrer">
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js logo"/> </a>
+  <!--- <a href="https://nodejs.org/dist/latest-v18.x/docs/api/http.html" target="_blank" rel="noreferrer">
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js logo"/> </a> --->
 
 </p>
 
