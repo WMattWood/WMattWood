@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I am Matthew Wood </h1>
 <h3 align="center">A passionate Full Stack Developer from Montréal, QC</h3> 
-<img align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47jng7y46q5cf5s82mclj38rr5syvkk9kiy179d2tx&rid=giphy.gif&ct=g">
+<img align="right" width="50%" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47jng7y46q5cf5s82mclj38rr5syvkk9kiy179d2tx&rid=giphy.gif&ct=g">
 <br>
 
 - 💻 I'm currently a Full Stack Developer working at the Ministère de l'Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs (<a href="https://www.environnement.gouv.qc.ca/">MELCCFP</a>).
