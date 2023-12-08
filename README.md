@@ -3,13 +3,15 @@
 <img align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47jng7y46q5cf5s82mclj38rr5syvkk9kiy179d2tx&rid=giphy.gif&ct=g">
 <br>
 
-- 💻 I'm currently working as a volunteer at a local maker space to help build <a href="https://github.com/lespacemaker/hackathon/tree/main/zoho-crm-api-connector">a RFID/FOB system</a> on top of Raspberry Pi devices with a Python backend.
+- 💻 I'm currently working with the <a href="https://www.environnement.gouv.qc.ca/">Ministère de l'Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs (MELCCFP)</a> as a full stack developer, helping to modernize their web systems and document existing workflow processes.
+
+<!--- - 💻 I'm currently working as a volunteer at a local maker space to help build <a href="https://github.com/lespacemaker/hackathon/tree/main/zoho-crm-api-connector">a RFID/FOB system</a> on top of Raspberry Pi devices with a Python backend. --->
 
 - 🎹 I have a background in Electroacoustics and spent 10 years working in highly technical aspects of the audio field (sampling, Max/MSP, Reaktor, MIDI Controllers, interface design, audio networking.)
 
 - 🔥 I'm passionate about clean human readable code and intuitive user interfaces.
 
--  📖 I'm learning about algorithms and data structures as well as Java, C++, and Typescript.
+-  📖 I'm learning about algorithms and data structures as well as C# and ASP.NET
 <br>
 <br>
 
@@ -56,8 +58,10 @@ Having fun with SVG animations: <a href="https://wmattwood.github.io/vote-time/"
 
 ---
 
-<!---
 
+
+<!---### I'm currently reading...
+&nbsp; 📖 &nbsp; "The Pragmatic Programmmer, 20th Anniversary Edition" by Andrew Hunt and David Thomas--->
 ### I'm currently reading...
-&nbsp; 📖 &nbsp; "The Pragmatic Programmmer, 20th Anniversary Edition" by Andrew Hunt and David Thomas
---->
+&nbsp; 📖 &nbsp; "The Mythical Man-Month: Essays on Software Engineering " by Fred Brooks
+
