@@ -7,11 +7,11 @@
 
 <!--- - 💻 I'm currently working as a volunteer at a local maker space to help build <a href="https://github.com/lespacemaker/hackathon/tree/main/zoho-crm-api-connector">a RFID/FOB system</a> on top of Raspberry Pi devices with a Python backend. --->
 
-- 🎹 I have a background in Electroacoustics.
-
 - 🔥 I'm passionate about clean human readable code and intuitive user interfaces.
-
+  
 -  📖 I'm learning about algorithms and data structures as well as C# and ASP.NET
+
+-  🎹 I have a background in Electroacoustics.
 <br>
 <br>
 
