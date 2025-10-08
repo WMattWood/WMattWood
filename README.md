@@ -1,7 +1,7 @@
 # Hi 👋, I am Matthew Wood
 
 Software Developer from Montréal specializing in Web Development
-<img align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47jng7y46q5cf5s82mclj38rr5syvkk9kiy179d2tx&rid=giphy.gif&ct=g">
+<img align="right" width="50%" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47jng7y46q5cf5s82mclj38rr5syvkk9kiy179d2tx&rid=giphy.gif&ct=g">
 
 - 💻 Full Stack Web Developer at the Ministère de l'Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs (<a href="https://www.environnement.gouv.qc.ca/">MELCCFP</a>).
 
