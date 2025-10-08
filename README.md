@@ -1,7 +1,7 @@
 # Hi 👋, I am Matthew Wood
+
 Software Developer from Montréal specializing in Web Development
-<img align="right" width="50%" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47jng7y46q5cf5s82mclj38rr5syvkk9kiy179d2tx&rid=giphy.gif&ct=g">
-<br>
+<img align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47jng7y46q5cf5s82mclj38rr5syvkk9kiy179d2tx&rid=giphy.gif&ct=g">
 
 - 💻 Full Stack Web Developer at the Ministère de l'Environnement, de la Lutte contre les changements climatiques, de la Faune et des Parcs (<a href="https://www.environnement.gouv.qc.ca/">MELCCFP</a>).
 
@@ -10,12 +10,10 @@ Software Developer from Montréal specializing in Web Development
 - 📖 Experienced in legacy system migration and building custom tools.
 
 - 🎹 I have studied Electroacoustics and toured in Europe and South America!
-<br>
-<br>
 
-Find me on LinkedIn: <a href="https://www.linkedin.com/in/wmattwood/" target="_blank">linkedin.com/in/wmattwood/</a> \
-Check out my scheduling app: <a href="https://yourschedule.onrender.com/" target="_blank">yourSchedule.onrender.com</a> \
-Having fun with SVG animations: <a href="https://wmattwood.github.io/vote-time/" target="_blank">wmattwood.github.io/vote-time/</a> 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/wmattwood/) or check out my [portfolio](https://portfolio-site-pi-three.vercel.app/).
+
+<br>
 
 ---
 
